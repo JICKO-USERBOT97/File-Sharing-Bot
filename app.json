@@ -35,11 +35,11 @@
     },
     "START_MESSAGE": {
       "description": "Optional: start message of bot, use HTML parsemode format",
-      "value": "Holla {first}\n\nSaya adalah Bot asupan konten 18+ berfungsi untuk membagikan file asupan berupa link khusus."
+      "value": "Hello {first}\n\nSaya dapat menyimpan file pribadi di Channel Tertentu dan pengguna lain dapat mengaksesnya dari link khusus."
     },
     "FORCE_SUB_MESSAGE": {
       "description": "Optional: Force Sub message of bot, use HTML parsemode format",
-      "value": "Holla {first}\n\n<b>Untuk Bisa nonton VIDEO anda perlu join terlebih dahulu LINK CHANNEL\n\n di bawah setelah itu silahkan Coba lagi</b>"
+      "value": "Hello {first}\n\n<b>Anda harus bergabung di Channel saya untuk menggunakan saya\n\n Silakan Join Ke Channel Terlebih Dahulu</b>"
     },
     "ADMINS": {
       "description": "A space separated list of user_ids of Admins, they can only create links",
